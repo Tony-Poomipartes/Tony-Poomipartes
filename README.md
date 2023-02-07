@@ -23,7 +23,7 @@ Here are some ideas to get you started:
  ## Connect with me
 [<img align= "left" alt="linkedin" width="30px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/tony-poomipartes/)
 <br/>
- ## Languages and Tools
+ ## Skills
  
 <img align= "left" alt="bash linux" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img align= "left" alt="bash linux" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
@@ -44,8 +44,7 @@ Here are some ideas to get you started:
 [![Tony-Poomipartes's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tony-Poomipartes)](https://github.com/Tony-Poomipartes/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tony-Poomipartes&layout=compact)](https://github.com/Tony-Poomipartes/github-readme-stats)
-
-
+<img align="right" src="https://github.r2v.ch/codewars?user=No0n3&top_languages=true" />
 
 
 
