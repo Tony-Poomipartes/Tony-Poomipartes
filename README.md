@@ -5,7 +5,6 @@
 - 🔭 I’m currently learning GraphQL.
 - 💬 If you want to know more about me [Linkedin](https://www.linkedin.com/in/tony-poomipartes/) 
 - 📫 Or contact me: tony.p.pro@gmail.com
-- 
 <!--
 **Tony-Poomipartes/Tony-Poomipartes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
