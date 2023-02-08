@@ -41,10 +41,9 @@ Here are some ideas to get you started:
 
 ## Stats
 
-[![Tony-Poomipartes's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tony-Poomipartes)](https://github.com/Tony-Poomipartes/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tony-Poomipartes&layout=compact)](https://github.com/Tony-Poomipartes/github-readme-stats)
-<img align="right" src="https://github.r2v.ch/codewars?user=No0n3&top_languages=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Tony-Poomipartes"/>
+<img  align='left' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tony-Poomipartes&hide_title=1&count_private=false&layout=compact" alt="Tony-Poomipartes's GitHub stats" />
+<img src="https://github.r2v.ch/codewars?user=No0n3&top_languages=true" />
 
 
 
