@@ -40,8 +40,9 @@ Here are some ideas to get you started:
 <br/>
 
 ## Stats
-
-<img src="https://github.r2v.ch/codewars?user=No0n3&top_languages=true" />
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Tony-Poomipartes&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
+<br/>  
+<div align="center"><img src="https://github.r2v.ch/codewars?user=No0n3&top_languages=true"  align="center"/></div>
 
 
 
