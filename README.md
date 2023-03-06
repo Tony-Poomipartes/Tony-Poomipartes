@@ -42,6 +42,8 @@ Here are some ideas to get you started:
 ## Stats
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Tony-Poomipartes&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
 <br/>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tony-Poomipartes&hide_title=1&count_private=true&layout=compact&theme=radical" alt="Top Langs" /></div>
+<br/>  
 <div align="center"><img src="https://github.r2v.ch/codewars?user=No0n3&top_languages=true"  align="center"/></div>
 
 
