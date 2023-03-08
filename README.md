@@ -40,11 +40,11 @@ Here are some ideas to get you started:
 <br/>
 
 ## Stats
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tony-Poomipartes&hide_title=1&count_private=true&layout=compact&hide_border=true&theme=radical" alt="Top Langs" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tony-Poomipartes&hide_title=1&count_private=true&layout=compact&theme=outrun" alt="Top Langs" /></div>
 <br/> 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Tony-Poomipartes&show_icons=true&count_private=true&hide_border=true&theme=radical" align="center" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Tony-Poomipartes&show_icons=true&count_private=true&theme=outrun" align="center" /></div>
 <br/>  
-<div align="center"><img src="https://github.r2v.ch/codewars?user=No0n3&top_languages=true"  align="center"/></div>
+<div align="center"><img src="https://github.r2v.ch/codewars?user=No0n3&top_languages=true&theme=radical"  align="center"/></div>
 
 
 
