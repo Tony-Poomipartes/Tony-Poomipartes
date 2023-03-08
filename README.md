@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 <br/> 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Tony-Poomipartes&show_icons=true&count_private=true&theme=outrun" align="center" /></div>
 <br/>  
-<div align="center"><img src="https://github.r2v.ch/codewars?user=No0n3&top_languages=true&theme=radical"  align="center"/></div>
+<div align="center"><img src="https://github.r2v.ch/codewars?user=No0n3&top_languages=true"  align="center"/></div>
 
 
 
