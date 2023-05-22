@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 <br/>
  ## Skills
  
-<img align= "left" alt="bash linux" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+<img align= "left" alt="vs code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img align= "left" alt="bash linux" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <img align= "left" alt="git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
 <img align= "left" alt="html" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
@@ -48,7 +48,8 @@ Here are some ideas to get you started:
 <img align= "left" alt="sequilize" width="30px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" />
 <img align= "left" alt="PostgreSQL" width="30px"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 <img align= "left" alt="mongo db" width="30px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
-<img align= "left" alt="mongo db" width="30px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
+<img align= "left" alt="graphql" width="30px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
+<img align= "left" alt="astro" width="30px"  src="https://tomdraper.dev/images/astro.png" />
 
 <br/>
 
