@@ -4,6 +4,7 @@
 - 🌱  I'm a student in web development. 
 - 🔭 I’m currently learning React, Redux.
 - 💬 If you want to know more about me [Linkedin](https://www.linkedin.com/in/tony-poomipartes/) 
+- 🖥️ My [portfolio](https://poomipartes.netlify.app)
 - 📫 Or contact me: tony.p.pro@gmail.com
 
 ## Who am I?
