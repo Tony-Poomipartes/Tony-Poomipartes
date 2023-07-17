@@ -1,14 +1,24 @@
-<p><a href="https://github.com/Tony-Poomipartes" target="_blank" rel="noreferrer"> <img src="https://github.com/Tony-Poomipartes/Tony-Poomipartes/blob/master/banner.png" alt="banner" /> </a> </p>
-![This is an image](banner.png)
+<p align="center">
+  <a href="https://poomipartes.netlify.app" target="_blank" rel="noreferrer">
+    <img src="banner.png" alt="banner" width="70%" />
+  </a>
+</p>
+
 <h1 align="center"> 👋 Hi I'm Tony P. !</h1>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=Tony-Poomipartes &label=Profile%20views&color=0e75b6&style=flat" alt="Tony-Poomipartes profile view" /> <img src="https://img.shields.io/github/followers/Tony-Poomipartes?label=%20Followers&style=social" alt="Github Followers"> </p>
 
+<img align="right" alt="Coding" width="300" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2F11jacPItBsJDLa%2Fgiphy.gif&f=1&nofb=1&ipt=41b5326d70394359ae2d7f2e843e3fc4e7feae9bbe39d750316a253559df7165&ipo=images">
+
 - 🌱  I'm a student in web development.
+
 - 🔭 I’m currently learning **React**, **TypeScript**.
+
 - 💬 If you want to know more about me [Linkedin](https://www.linkedin.com/in/tony-poomipartes/)
+
 - 🖥️ My [portfolio](https://poomipartes.netlify.app)
+
 - 📫 Or contact me: <tony.p.pro@gmail.com>
 
 ## Who am I?
