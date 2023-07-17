@@ -1,8 +1,10 @@
-# 👋 Hi I'm Tony P. !
+<h1 align="center"> 👋 Hi I'm Tony P. !</h1>
 
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Tony-Poomipartes &label=Profile%20views&color=0e75b6&style=flat" alt="Tony-Poomipartes profile view" /> <img src="https://img.shields.io/github/followers/Tony-Poomipartes?label=%20Followers&style=social" alt="Github Followers"> </p>
 
 - 🌱  I'm a student in web development. 
-- 🔭 I’m currently learning React, Redux.
+- 🔭 I’m currently learning **React**, **TypeScript**.
 - 💬 If you want to know more about me [Linkedin](https://www.linkedin.com/in/tony-poomipartes/) 
 - 🖥️ My [portfolio](https://poomipartes.netlify.app)
 - 📫 Or contact me: tony.p.pro@gmail.com
@@ -45,6 +47,7 @@ Here are some ideas to get you started:
 <img align= "left" alt="html" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
 <img align= "left" alt="css" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />      
 <img align= "left" alt="javascript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+
 <img align= "left" alt="node-js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align= "left" alt="sequilize" width="30px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" />
 <img align= "left" alt="PostgreSQL" width="30px"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
