@@ -7,7 +7,7 @@
 <h1 align="center"> 👋 Hi I'm Tony P. !</h1>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Tony-Poomipartes &label=Profile%20views&color=0e75b6&style=flat" alt="Tony-Poomipartes profile view" /> <img src="https://img.shields.io/github/followers/Tony-Poomipartes?label=%20Followers&style=social" alt="Github Followers"> </p>
+<img src="https://komarev.com/ghpvc/?username=Tony-Poomipartes &label=Profile%20views&color=0e75b6&style=flat" alt="Tony-Poomipartes profile views" /> <img src="https://img.shields.io/github/followers/Tony-Poomipartes?label=%20Followers&style=social" alt="Github Followers"> </p>
 
 <img align="right" alt="Coding" width="300" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2F11jacPItBsJDLa%2Fgiphy.gif&f=1&nofb=1&ipt=41b5326d70394359ae2d7f2e843e3fc4e7feae9bbe39d750316a253559df7165&ipo=images">
 
@@ -57,20 +57,19 @@ Here are some ideas to get you started:
 
 ## Skills
 
-<img align= "left" alt="vs code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-<img align= "left" alt="bash linux" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<img align= "left" alt="git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
-<img align= "left" alt="html" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
-<img align= "left" alt="css" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
-<img align= "left" alt="javascript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 
-<img align= "left" alt="node-js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align= "left" alt="sequilize" width="30px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" />
-<img align= "left" alt="PostgreSQL" width="30px"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-<img align= "left" alt="mongo db" width="30px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
-<img align= "left" alt="graphql" width="30px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
-<img align= "left" alt="astro" width="30px"  src="https://tomdraper.dev/images/astro.png" />
+<div align="center">
 
+
+|  |  |  |  |  |  |  |  |
+|-|-|-|-|-|-|-|-|
+|Visual Studio Code|<img align= "left" alt="vs code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />|      |Bash CLI|<img align= "left" alt="bash linux" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />|      |GIT|<img align= "left" alt="git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />|
+|HTML|<img align= "left" alt="html" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />|      |CSS|<img align= "left" alt="css" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />|      |Sass|<img align= "left" alt="css" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>
+|JavaScript|<img align= "left" alt="javascript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />|      |TypeScript|<img align= "left" alt="css" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />|
+|Node.js|<img align= "left" alt="node-js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />|      |Express|<img align= "left" alt="sequilize" width="30px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />|      |Sequelize|<img align= "left" alt="sequilize" width="30px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" />|
+|PostgreSQL|<img align= "left" alt="PostgreSQL" width="30px"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />|      |mongo db|<img align= "left" alt="mongo db" width="30px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />|      |graphql|<img align= "left" alt="graphql" width="30px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />|
+|astro|<img align= "left" alt="astro" width="30px"  src="https://tomdraper.dev/images/astro.png" />|      |vite|<img align= "left" alt="graphql" width="30px"  src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fseeklogo.com%2Fimages%2FV%2Fvite-logo-BFD4283991-seeklogo.com.png&f=1&nofb=1&ipt=6c86dd8cfc706edb15c6e4303327f4189eb93c6edeeb8fdcaddb6c3b2a4c85e3&ipo=images" />|      |Next.js|<img align= "left" alt="graphql" width="30px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" />|
+<div/>
 <br/>
 
 ## Stats
