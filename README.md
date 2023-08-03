@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://poomipartes.netlify.app" target="_blank" rel="noreferrer">
-    <img src="banner.png" alt="banner" width="70%" />
+    <img src="/img/banner.png" alt="banner" width="70%" />
   </a>
 </p>
 
@@ -66,8 +66,9 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-| IDEs |  |  |
+|  |  |  |
 |-|-|-|
+| IDEs |  |  |
 | <img align= "left" alt="vs code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />Visual Studio Code |<img align= "left" alt="Atom" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/e/e2/Atom_1.0_icon.png" />Atom |
 | **Programming languages** |  |
 | JavaScript<img align= "left" alt="javascript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />|TypeScript<img align= "left" alt="TypeScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />|      |
@@ -80,7 +81,7 @@ Here are some ideas to get you started:
 | **Server** |  |  |
 |Node.js<img align= "left" alt="node-js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />|Express<img align= "left" alt="Express" width="30px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />|  |
 | **Database** |  |  |
-|PostgreSQL|<img align= "left" alt="PostgreSQL" width="30px"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />|Mongo db<img align= "left" alt="mongo db" width="30px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />|Graphql<img align= "left" alt="graphql" width="30px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />|
+|PostgreSQL<img align= "left" alt="PostgreSQL" width="30px"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />|Sqitch<img align= "left" alt="Sqitch" width="50px"  src="https://sqitch.org/img/sqitch-logo.svg" />|Graphql<img align= "left" alt="graphql" width="30px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />|
 | **Test** |  |  |
 |Jest|<img align= "left" alt="PostgreSQL" width="30px"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />|  |  |
 | **Doc** |  |  |
