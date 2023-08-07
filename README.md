@@ -24,7 +24,7 @@
 ## Who am I?
 
 <details>
-  <summary>Voir plus</summary>
+  <summary>Click me if you want to know more about me</summary>
 
 Hello everyone, I'm a tech lover, very curious about the blockchain ecosystem and all programming Languages.</br>
 I've been working on the construction site as a lead electrician but after spending two years in Australia and New Zeland I realized that I needed to work with what passionate me the most, that's why I've decided to start a new chapter of my life and turning myself into web development.</br>
