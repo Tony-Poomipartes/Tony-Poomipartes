@@ -11,20 +11,20 @@
 <!--
 <img align="right" alt="Coding" width="300" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2F11jacPItBsJDLa%2Fgiphy.gif&f=1&nofb=1&ipt=41b5326d70394359ae2d7f2e843e3fc4e7feae9bbe39d750316a253559df7165&ipo=images">-->
 
-- 🌱  I'm a student in web development.
+- ✏️  I'm a **student** in web development.
 
-- <img alt="Hi hand" width="16px" src="https://photodentro.edu.gr/lor/image/loading.gif" /> I’m currently learning **React**, **TypeScript**.
+- <img alt="Hi hand" width="16px" src="https://photodentro.edu.gr/lor/image/loading.gif" /> I’m currently learning **React** <img alt="React" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">, **TypeScript** <img  alt="TypeScript" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />.
 
-- 💬 If you want to know more about me [Linkedin](https://www.linkedin.com/in/tony-poomipartes/)
+- 💬 If you want to **know** more or **connect** with me [LINKEDIN](https://www.linkedin.com/in/tony-poomipartes/) [<img align= "rigth" alt="linkedin" width="25px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/tony-poomipartes/)
 
-- <img alt="web site" width="16px" src="https://www.pngkey.com/png/full/131-1312432_transparent-backgrounds-png.png" /> Check out my [portfolio](https://poomipartes.netlify.app)
+- <img alt="web site" width="16px" src="https://www.pngkey.com/png/full/131-1312432_transparent-backgrounds-png.png" /> Check out my [PORTFOLIO](https://poomipartes.netlify.app)
 
-- 📫 Or contact me: <tony.p.pro@gmail.com>
+- 📫 Or **contact** me: <tony.p.pro@gmail.com> [<img align= "rigth" alt="linkedin" width="30px"  src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.pinclipart.com%2Fpicdir%2Fbig%2F143-1432236_contacts-us-mail-mail-gif-us-mail-gifs.png&f=1&nofb=1&ipt=e7e7601fba83694e64968c624535bc01b03a56a58817dc26ac8b2c04b30e6359&ipo=images" />](tony.p.pro@gmail.com)
 
 ## Who am I?
 
 <details>
-  <summary>Click me if you want to know more about me</summary>
+  <summary>👇 Show more 👇</summary>
 
 Hello everyone, I'm a tech lover, very curious about the blockchain ecosystem and all programming Languages.</br>
 I've been working on the construction site as a lead electrician but after spending two years in Australia and New Zeland I realized that I needed to work with what passionate me the most, that's why I've decided to start a new chapter of my life and turning myself into web development.</br>
@@ -55,15 +55,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
----
-
+<!--
 ## Connect with me
 
 [<img align= "left" alt="linkedin" width="30px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/tony-poomipartes/)
 <br/>
 
+---
+-->
 ## Skills
-
+<details>
+  <summary>👇 Show more 👇</summary>
 <div align="center">
 
 |  |  |  |
@@ -99,12 +101,12 @@ Here are some ideas to get you started:
 |Astro|<img align= "left" alt="astro" width="30px"  src="https://tomdraper.dev/images/astro.png" />|      |Vite|<img align= "left" alt="graphql" width="30px"  src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fseeklogo.com%2Fimages%2FV%2Fvite-logo-BFD4283991-seeklogo.com.png&f=1&nofb=1&ipt=6c86dd8cfc706edb15c6e4303327f4189eb93c6edeeb8fdcaddb6c3b2a4c85e3&ipo=images" />|      |Next.js|<img align= "left" alt="graphql" width="30px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" />| -->
 <div/>
 
-<br/>
+</details>
+
 
 ## Stats
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tony-Poomipartes&hide_title=1&count_private=true&layout=compact&theme=outrun&langs_count=10" alt="Top Langs" /></div>
-<br/>
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Tony-Poomipartes&show_icons=true&count_private=true&theme=outrun" align="center" /></div>
-<br/>  
+<details>
+  <summary>👇 Show more 👇</summary>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tony-Poomipartes&hide_title=1&count_private=true&layout=compact&theme=outrun&langs_count=10" alt="Top Langs " /><img src="https://github-readme-stats.vercel.app/api?username=Tony-Poomipartes&show_icons=true&count_private=true&theme=outrun" width="455px"/></div>
 <div align="center"><img src="https://github.r2v.ch/codewars?user=No0n3&top_languages=true"  align="center"/></div>
+</details>
